@@ -1,4 +1,5 @@
-## Hi there 👋
+## Oi, meu nome é Arthur !
+Estudante de ADS no Senac.👨🏽‍💻
 
 <!--
 **viniciussna/viniciussna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
