@@ -1,39 +1,44 @@
-# Olá, eu sou Arthur Vinícius 👋
+# 👋 Olá, eu sou Arthur Vinicius
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no SENAC, atualmente no 3° período.  
-Apaixonado por **desenvolvimento e design**, estou construindo projetos acadêmicos e pessoais para aprimorar minhas habilidades.
+🎓 Estudante de Tecnologia da Informação no SENAC
 
----
+💻 Interessado em programação e desenvolvimento back-end
 
-## 🚀 Tecnologias e Skills
-
-- **Linguagens:** Java (básico) | SQL  
-- **Front-end / Design:** React (projetos da faculdade) | Figma | FigJam  
-- **Ferramentas de organização e prototipagem:** Miro  
+🚀 Registrando minha evolução através dos projetos no GitHub
 
 ---
 
-## 💻 Projetos em destaque
+## 🛠 Tecnologias e Ferramentas
 
-- [**Projeto Integrador: Distribuição de Sementes**](https://github.com/Thauan-rgb/Projeto-Distribuicao-de-Sementes) – Trabalho em grupo da faculdade. Sistema completo de gerenciamento de distribuição de sementes com funcionalidades de cadastro, estoque, logística, entregas, rastreabilidade, painel público de transparência e relatórios.  
-  **Principais funcionalidades:**
-  - **Cadastros:** Espécies, Fornecedores, Armazéns, Municípios, Agricultores  
-  - **Estoque:** Entrada/saída de lotes, transferências, saldo por lote/armazém, bloqueio de saldo negativo  
-  - **Logística:** Ordens de expedição, controle de datas, upload de comprovantes  
-  - **Entregas:** Registro detalhado por lote, associação de agricultor, comprovantes  
-  - **Rastreabilidade:** Códigos por lote, histórico completo de movimentações  
-  - **Painel Público:** Total distribuído por espécie, indicadores por município/período  
-  - **Relatórios:** Por espécie, lote e período, divergências, produtividade operacional  
-  - **Perfis de usuários:** Gestor/Admin, Operador de Armazém, Agente de Distribuição, Cooperativa  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge\&logo=figma\&logoColor=white)
 
-- **Protótipos em Figma / FigJam** – Exemplos de design de interfaces e fluxos de usuário.
+---
+
+## 📚 Atualmente estudando
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
+
+---
+
+## 📂 Projetos
+
+📁 Repositório **PROJETO-SENAC** contém atividades e projetos desenvolvidos durante o curso.
+
+⭐ Repositórios em constante atualização.
 
 ---
 
 ## 📫 Como me encontrar
 
-- [LinkedIn](https://www.linkedin.com/in/arthur-vinicius-610866344)  
-- [E-mail](mailto:arthurviniciusns01@gmail.com)  
+* [LinkedIn](https://www.linkedin.com/in/arthur-vinicius-610866344)
+* [E-mail](mailto:arthurviniciusns01@gmail.com)
 
 ---
 
